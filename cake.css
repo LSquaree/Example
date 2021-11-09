@@ -1,0 +1,25 @@
+body{
+    margin: 0;
+    padding:0;
+}
+form{
+    background-color:lightblue;
+}
+.cakeshape{
+    background-color: lightcoral;
+}
+.cakesize{
+    background-color: lightcyan;
+}
+.cakecolor{
+    background-color: lightpink;
+}
+.fruit{
+    background-color: limegreen;
+}
+.textoncake{
+    background-color: mediumpurple;
+}
+.quantity{
+    background-color: mediumturquoise;
+}
